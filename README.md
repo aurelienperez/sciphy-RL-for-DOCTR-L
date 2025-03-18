@@ -4,5 +4,5 @@ This repository contains the implementation for reproducing the numerical experi
 
 ## 📄 Resources
 - **[Original Paper](paper/Halperin_2023_DOCTR-L.pdf)**
-- **[Reproduction Report](DOCTR-L_Report.pdf)**
+- **[Reproduction Report](report/DOCTR-L_Report.pdf)**
 
